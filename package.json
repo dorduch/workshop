@@ -1,0 +1,13 @@
+{
+  "name": "grades_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.29",
+    "restify": "^4.3.0",
+    "restify-errors": "^4.3.0",
+    "socket.io": "^2.0.3"
+  }
+}
